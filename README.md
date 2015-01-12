@@ -8,7 +8,7 @@
 ### Note
 * For this case, I didn't need to directly require jQuery in RquireJS since Bootstrap Switch loads jQuery and "exports" the same global variable `$`
 
-### Thanks
+### Thanks to
 * Itay Neeman
 * David Foster
 * Mathew Elting
