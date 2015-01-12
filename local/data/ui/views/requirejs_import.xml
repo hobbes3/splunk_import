@@ -1,0 +1,15 @@
+<dashboard script="requirejs_import.js" stylesheet="bootstrap-switch.css">
+  <row>
+    <panel>
+      <html>
+        Uses RequireJS without modifying the imported code (not AMD-ifying it). Uses the following files:
+        <ul>
+          <li><code>requirejs_import.js</code></li>
+          <li><code>bootstrap-switch.js</code></li>
+          <li><code>bootstrap-switch.css</code></li>
+        </ul>
+        <input type="checkbox" name="my-checkbox" />
+      </html>
+    </panel>
+  </row>
+</dashboard>

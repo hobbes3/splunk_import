@@ -1,0 +1,14 @@
+<dashboard script="all_in_one_import.js" stylesheet="bootstrap-switch.css">
+  <row>
+    <panel>
+      <html>
+        Not using RequireJS. Copy pasta the imported code straight directly to the main JS file (not recommended; for illustrative purpose only). Uses the following files:
+        <ul>
+          <li><code>all_in_one_import.js</code></li>
+          <li><code>bootstrap-switch.css</code></li>
+        </ul>
+        <input type="checkbox" name="my-checkbox" />
+      </html>
+    </panel>
+  </row>
+</dashboard>

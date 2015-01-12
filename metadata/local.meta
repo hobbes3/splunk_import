@@ -1,0 +1,29 @@
+[app/ui]
+version = 6.2.0
+modtime = 1421080939.182132000
+
+[app/launcher]
+version = 6.2.0
+modtime = 1421080939.186046000
+
+[views/all_in_one_import]
+export = none
+owner = admin
+version = 6.2.0
+modtime = 1421094050.733447000
+
+[views/requirejs_import]
+export = none
+owner = admin
+version = 6.2.0
+modtime = 1421094086.738601000
+
+[views/requirejs_amd_import]
+export = none
+owner = admin
+version = 6.2.0
+modtime = 1421094101.866834000
+
+[nav/default]
+version = 6.2.0
+modtime = 1421093145.123994000
