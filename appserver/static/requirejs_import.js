@@ -1,6 +1,6 @@
 require.config({
     paths: {
-        "bootstrap-switch": "../app/test_import/bootstrap-switch",
+        "bootstrap-switch": "../app/hobbes3_import/bootstrap-switch",
     },
     shim: {
         "bootstrap-switch": {
