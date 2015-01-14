@@ -6,7 +6,7 @@
 * You *must rename* the app folder from `splunk_import` to `hobbes3_import` for all the JavaScript to work (don't forget to restart Splunk)
 
 ### Note
-* For this case, I didn't need to directly require jQuery in RquireJS since Bootstrap Switch loads jQuery and "exports" the same global variable `$`
+* For this case, I didn't need to directly require jQuery in RequireJS since Bootstrap Switch loads jQuery and "exports" the same global variable `$`
 
 ### Thanks to
 * Itay Neeman
