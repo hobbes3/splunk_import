@@ -1,6 +1,6 @@
 ### Objective
 * To demonstrate the 3 methods on importing external JavaScript to your Splunk dashboard in version 6+
-* This demo app will be importing the [Bootstrap Switch](http://www.bootstrap-switch.org/) code
+* This demo app will be importing the [Bootstrap Switch](http://bootstrapswitch.com/) code
 
 ### Usage
 * You *must rename* the app folder from `splunk_import` to `hobbes3_import` for all the JavaScript to work (don't forget to restart Splunk)
