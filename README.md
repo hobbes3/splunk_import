@@ -3,7 +3,7 @@
 * This demo app will be importing the [Bootstrap Switch](http://bootstrapswitch.com/) code
 
 ### Usage
-* You *must rename* the app folder from `splunk_import` to `hobbes3_import` for all the JavaScript to work (don't forget to restart Splunk)
+* Make sure the app name stays as `splunk_import`, otherwise some of the JavaScript files will point to the wrong directory. Don't forget to restart Splunk after changing an app name.
 
 ### Note
 * For this case, I didn't need to directly require jQuery in RequireJS since Bootstrap Switch loads jQuery and "exports" the same global variable `$`
