@@ -5,7 +5,7 @@ require.config({
 });
 
 require([
-    'app/hobbes3_import/bootstrap-switch-amd',
+    'app/splunk_import/bootstrap-switch-amd',
     'splunkjs/mvc/simplexml/ready!'
 ],
 function(
